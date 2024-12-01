@@ -1,4 +1,4 @@
-# e-KYC
+# E-Kyc
 ![1](https://github.com/user-attachments/assets/67212e8c-1c5f-47a1-bc82-e78ab1613ba2)
 ![2](https://github.com/user-attachments/assets/ceddf954-cdf5-4049-ada1-8ec91ab79956)
 ![3](https://github.com/user-attachments/assets/2383306e-8999-4058-a645-ae2ecf4b8a26)
