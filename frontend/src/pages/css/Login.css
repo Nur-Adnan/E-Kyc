@@ -1,0 +1,6 @@
+.bg-image {
+  background-image: url("../assets/images/smartBD.png"); /* Update with your image path */
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+}

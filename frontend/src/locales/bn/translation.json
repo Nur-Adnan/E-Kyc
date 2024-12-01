@@ -1,0 +1,152 @@
+{
+  "homePage": {
+    "electronic_kyc": "ইলেকট্রনিক কেওয়াইসি",
+    "welcome": "TaxShieldBD-এ স্বাগতম, যেখানে আমরা ব্লকচেইন প্রযুক্তি এবং ই-কেওয়াইসি যাচাই ব্যবহার করে বাংলাদেশে কর প্রশাসনকে বিপ্লব ঘটাই, নিরাপত্তা, দক্ষতা এবং স্বচ্ছতা নিশ্চিত করি।",
+    "watch_ekyc_process": "ই-কেওয়াইসি প্রক্রিয়া দেখুন",
+    "services": "সেবা",
+    "identity_verification": "পরিচয় যাচাইকরণ",
+    "secure_authentication": "নিরাপদ প্রমাণীকরণ",
+    "document_upload": "ডকুমেন্ট আপলোড",
+    "user_authentication": "ব্যবহারকারী প্রমাণীকরণ",
+    "data_encryption": "ডেটা এনক্রিপশন"
+  },
+  "navBar": {
+    "account": "অ্যাকাউন্ট",
+    "kyc": "কেওয়াইসি",
+    "logout": "লগ আউট",
+    "login": "লগ ইন",
+    "signup": "সাইন আপ",
+    "updateKyc": "কেওয়াইসি আপডেট",
+    "myKyc": "আমার কেওয়াইসি",
+    "history": "ইতিহাস",
+    "uploadNID": "এনআইডি আপলোড",
+    "verifier": "যাচাইকারী",
+    "verifiedUserList": "যাচাইকৃত ব্যবহারকারীর তালিকা",
+    "blockList": "ব্লক তালিকা",
+    "ekyc": "ই.কেওয়াইসি ডেটা"
+  },
+  "signinPage": {
+    "sign_in": "সাইন ইন",
+    "phone_number": "ফোন নম্বর*",
+    "password": "পাসওয়ার্ড*",
+    "captcha_label": "ক্যাপচা: {{captcha}} + 3 = ?",
+    "remember_me": "মনে রাখবেন",
+    "forgot_password": "আপনার পাসওয়ার্ড ভুলে গেছেন?",
+    "sign_in_button": "সাইন ইন",
+    "no_account": "আপনার একটি অ্যাকাউন্ট নেই?",
+    "register_here": "এখানে নিবন্ধন করুন"
+  },
+  "signupPage": {
+    "signUpTitle": "নিবন্ধন করুন",
+    "signUpFullNameLabel": "পূর্ণ নাম*",
+    "signUpPhoneLabel": "ফোন নম্বর*",
+    "signUpPasswordLabel": "পাসওয়ার্ড*",
+    "signUpConfirmPasswordLabel": "পাসওয়ার্ড নিশ্চিত করুন*",
+    "signUpRoleLabel": "ভূমিকা নির্বাচন করুন*",
+    "signUpTaxpayer": "করদাতা",
+    "signUpOrganization": "প্রতিষ্ঠান",
+    "signUpTermsPolicy": "আমি শর্তাবলী এবং গোপনীয়তা নীতির সাথে সম্মত আছি।",
+    "signUpSendVerification": "যাচাইকরণ কোড পাঠান",
+    "signUpVerificationCode": "যাচাইকরণ কোড",
+    "signUpVerifySignUp": "যাচাই করুন এবং নিবন্ধন করুন",
+    "signUpHasAccount": "আপনার কি ইতিমধ্যে একটি অ্যাকাউন্ট আছে?",
+    "signUpLoginHere": "লগইন করুন।",
+    "signUpPasswordMismatch": "পাসওয়ার্ড মেলেনি!",
+    "signUpFullNameMismatch": "পূর্ণ নাম এনআইডি পূর্ণ নামের সাথে মেলেনি",
+    "signUpVerificationError": "যাচাইকরণ কোড পাঠাতে ব্যর্থ হয়েছে",
+    "signUpVerificationSuccess": "নিবন্ধন সফল",
+    "fetchNIDError": "NID পূর্ণ নাম সংগ্রহ করতে ব্যর্থ হয়েছে",
+    "verificationCodePrompt": "দয়া করে আপনার ফোন নম্বরে পাঠানো যাচাইকরণ কোডটি প্রবেশ করুন",
+    "verificationFailed": "কোড যাচাইকরণ বা সাইন ইন করতে ব্যর্থ হয়েছে",
+    "enterVerificationCode": "যাচাইকরণ কোড প্রবেশ করুন"
+  },
+  "account": {
+    "accountInformation": "অ্যাকাউন্টের তথ্য",
+    "welcomeToOrganizationAccount": "সংগঠন অ্যাকাউন্টে স্বাগতম",
+    "welcomeToAdminPanel": "অ্যাডমিন প্যানেলে স্বাগতম",
+    "yourWalletAddress": "আপনার ওয়ালেট ঠিকানা: ",
+    "adminWalletAddress": "অ্যাডমিন ওয়ালেট ঠিকানা: ",
+    "organizationWalletAddress": "সংগঠন ওয়ালেট ঠিকানা: "
+  },
+  "upload": {
+    "uploadTheExcelSheet": "এক্সেল শিট আপলোড করুন",
+    "selectYourExcelSheet": "আপনার এক্সেল শিট নির্বাচন করুন",
+    "upload": "আপলোড করুন"
+  },
+  "verifier": {
+    "verifier": "ভেরিফায়ার",
+    "addVerifier": "ভেরিফায়ার যোগ করুন",
+    "deleteVerifier": "ভেরিফায়ার মুছুন",
+    "serialNo": "সিরিয়াল নং",
+    "organizationName": "সংস্থার নাম",
+    "organizationAddress": "সংস্থার ঠিকানা",
+    "addedOn": "যোগ করা হয়েছে (ব্লক নং)"
+  },
+  "verifiedUserList": {
+    "verifiedUserList": "ভেরিফায়েড ব্যবহারকারীদের তালিকা",
+    "clear": "পরিষ্কার করুন",
+    "nidNumber": "NID নম্বর",
+    "fullNameEnglish": "পূর্ণ নাম (ইংরেজি)",
+    "fullNameBangla": "পূর্ণ নাম (বাংলা)",
+    "dateOfBirth": "জন্ম তারিখ",
+    "expiredTime": "মেয়াদ উত্তীর্ণ সময়",
+    "status": "স্থিতি"
+  },
+  "blockedUsers": {
+    "blockedUsers": "ব্লক করা ব্যবহারকারীগণ",
+    "clear": "পরিষ্কার করুন",
+    "nidNumber": "NID নম্বর",
+    "fullNameEnglish": "পূর্ণ নাম (ইংরেজি)",
+    "fullNameBangla": "পূর্ণ নাম (বাংলা)",
+    "dateOfBirth": "জন্ম তারিখ",
+    "expiredTime": "মেয়াদ উত্তীর্ণ সময়"
+  },
+  "ekycDetails": {
+    "ekycDetails": "ই-কেওয়াইসি বিবরণ",
+    "citizenWalletAddress": "নাগরিক ওয়ালেট ঠিকানা",
+    "getDetails": "বিস্তারিত পান",
+    "citizenNID": "নাগরিক এনআইডি",
+    "serialNo": "সিরিয়াল নং",
+    "citizenName": "নাগরিকের নাম",
+    "nidNo": "এনআইডি নং",
+    "walletAddress": "ওয়ালেট ঠিকানা"
+  },
+  "kyc": {
+    "kyc": "কেওয়াইসি (আপনার গ্রাহক জানুন)",
+    "nidNumber": "এনআইডি নম্বর*",
+    "fullNameEnglish": "পূর্ণ নাম (ইংরেজি)*",
+    "fullNameBangla": "পূর্ণ নাম (বাংলা)*",
+    "dateOfBirth": "জন্ম তারিখ*",
+    "submit": "জমা দিন",
+    "success": "সাফল্য",
+    "unableToSubmit": "ডেটা জমা দিতে অক্ষম"
+  },
+  "ipfs": {
+    "imagesUploaded": "ছবিগুলি সফলভাবে একটি একক হ্যাশের অধীনে IPFS-এ আপলোড করা হয়েছে।",
+    "failedUpload": "ছবিগুলি IPFS-এ আপলোড করতে ব্যর্থ হয়েছে।",
+    "bothImagesRequired": "ফ্রন্ট এবং ব্যাক উভয় ছবি প্রয়োজন।",
+    "uploadNID": "আপনার NID আপলোড করুন",
+    "selectFrontImage": "একটি ফ্রন্ট ছবি নির্বাচন করুন",
+    "selectBackImage": "একটি ব্যাক ছবি নির্বাচন করুন",
+    "submit": "জমা দিন"
+  },
+  "Mykyc": {
+    "kycApproved": "KYC সফলভাবে অনুমোদিত",
+    "failedToApprove": "KYC অনুমোদন করতে ব্যর্থ হয়েছে।",
+    "error": "ত্রুটি",
+    "kycRevoked": "KYC সফলভাবে বাতিল করা হয়েছে",
+    "failedToRevoke": "KYC বাতিল করতে ব্যর্থ হয়েছে।",
+    "verifierAddress": "যাচাইককারী ঠিকানা",
+    "approve": "অনুমোদন করুন",
+    "revoke": "বাতিল করুন",
+    "givenAccessVerifiers": "অ্যাক্সেস দেওয়া যাচাইককারী",
+    "slNo": "SL নং",
+    "orgName": "সংস্থার নাম",
+    "orgID": "সংস্থার ID",
+    "orgAddress": "সংস্থার ঠিকানা",
+    "action": "ক্রিয়া"
+  },
+  "tranHistory": {
+    "transactionHistory": "লেনদেনের ইতিহাস"
+  }
+}

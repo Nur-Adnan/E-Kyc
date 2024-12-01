@@ -1,0 +1,151 @@
+{
+  "homePage": {
+    "electronic_kyc": "Electronic Know Your Customer",
+    "welcome": "Welcome to TaxShieldBD, where we harness blockchain technology and E-KYC verification to revolutionize tax administration in Bangladesh, ensuring security, efficiency, and transparency.",
+    "watch_ekyc_process": "Watch the e-KYC process",
+    "services": "Services",
+    "identity_verification": "Identity Verification",
+    "secure_authentication": "Secure Authentication",
+    "document_upload": "Document Upload",
+    "user_authentication": "User Authentication",
+    "data_encryption": "Data Encryption"
+  },
+  "navBar": {
+    "account": "Account",
+    "kyc": "KYC",
+    "logout": "Logout",
+    "login": "Login",
+    "signup": "Sign Up",
+    "updateKyc": "Update KYC",
+    "myKyc": "My KYC",
+    "history": "History",
+    "uploadNID": "Upload NID",
+    "verifier": "Verifier",
+    "verifiedUserList": "Verified User List",
+    "blockList": "Block List",
+    "ekyc": "E.KYC Data"
+  },
+  "signinPage": {
+    "sign_in": "Sign in",
+    "phone_number": "Phone Number*",
+    "password": "Password*",
+    "captcha_label": "Captcha: {{captcha}} + 3 = ?",
+    "remember_me": "Remember me",
+    "forgot_password": "Forgot your password?",
+    "sign_in_button": "Sign in",
+    "no_account": "Don't have an account?",
+    "register_here": "Register here"
+  },
+  "signupPage": {
+    "signUpTitle": "Sign Up",
+    "signUpFullNameLabel": "Full Name*",
+    "signUpPhoneLabel": "Phone Number*",
+    "signUpPasswordLabel": "Password*",
+    "signUpConfirmPasswordLabel": "Confirm Password*",
+    "signUpRoleLabel": "Select Role*",
+    "signUpTaxpayer": "Taxpayer",
+    "signUpOrganization": "Organization",
+    "signUpTermsPolicy": "I agree to the Terms of Service and Privacy Policy.",
+    "signUpSendVerification": "Send Verification Code",
+    "signUpVerificationCode": "Verification Code",
+    "signUpVerifySignUp": "Verify and Sign Up",
+    "signUpHasAccount": "Already have an account?",
+    "signUpLoginHere": "Log in.",
+    "signUpPasswordMismatch": "Passwords do not match!",
+    "signUpFullNameMismatch": "Full name doesn't match with the NID Fullname",
+    "signUpVerificationError": "Failed to send verification code",
+    "signUpVerificationSuccess": "Registration Successful",
+    "fetchNIDError": "Failed to fetch NID Fullname",
+    "verificationCodePrompt": "Please enter the verification code sent to your phone number",
+    "verificationFailed": "Failed to verify code or sign in",
+    "enterVerificationCode": "Enter verification code"
+  },
+  "account": {
+    "accountInformation": "Account Information",
+    "welcomeToOrganizationAccount": "Welcome to Organization Account",
+    "welcomeToAdminPanel": "Welcome to Admin Panel",
+    "yourWalletAddress": "Your wallet Address: ",
+    "adminWalletAddress": "Admin Wallet Address: ",
+    "organizationWalletAddress": "Organization Wallet Address: "
+  },
+  "upload": {
+    "uploadTheExcelSheet": "Upload The Excel Sheet",
+    "selectYourExcelSheet": "Select Your Excel Sheet",
+    "upload": "Upload"
+  },
+  "verifier": {
+    "verifier": "Verifier",
+    "addVerifier": "Add Verifier",
+    "deleteVerifier": "Delete Verifier",
+    "serialNo": "Serial No",
+    "organizationName": "Organization Name",
+    "organizationAddress": "Organization Address",
+    "addedOn": "Added On (Block No)"
+  },
+  "verifiedUserList": {
+    "verifiedUserList": "Verified User List",
+    "clear": "Clear",
+    "nidNumber": "NID Number",
+    "fullNameEnglish": "Full Name (English)",
+    "fullNameBangla": "Full Name (Bangla)",
+    "dateOfBirth": "Date of Birth",
+    "expiredTime": "Expired Time",
+    "status": "Status"
+  },
+  "blockedUsers": {
+    "blockedUsers": "Blocked Users",
+    "clear": "Clear",
+    "nidNumber": "NID Number",
+    "fullNameEnglish": "Full Name (English)",
+    "fullNameBangla": "Full Name (Bangla)",
+    "dateOfBirth": "Date of Birth"
+  },
+  "ekycDetails": {
+    "ekycDetails": "E.KYC Details",
+    "citizenWalletAddress": "Citizen Wallet Address",
+    "getDetails": "Get Details",
+    "citizenNID": "Citizen NID",
+    "serialNo": "SERIAL NO.",
+    "citizenName": "CITIZEN NAME",
+    "nidNo": "NID NO",
+    "walletAddress": "WALLET ADDRESS"
+  },
+  "kyc": {
+    "kyc": "KYC (Know Your Customer)",
+    "nidNumber": "NID Number*",
+    "fullNameEnglish": "Full Name (English)*",
+    "fullNameBangla": "Full Name (Bangla)*",
+    "dateOfBirth": "Date of Birth*",
+    "submit": "Submit",
+    "success": "Success",
+    "unableToSubmit": "Unable to submit data"
+  },
+  "ipfs": {
+    "imagesUploaded": "Images uploaded to IPFS successfully under a single hash.",
+    "failedUpload": "Failed to upload images to IPFS.",
+    "bothImagesRequired": "Both front and back images are required.",
+    "uploadNID": "Upload Your NID",
+    "selectFrontImage": "Select a front image",
+    "selectBackImage": "Select a back image",
+    "submit": "Submit"
+  },
+  "Mykyc": {
+    "kycApproved": "KYC Approved Successfully",
+    "failedToApprove": "Failed to approve KYC.",
+    "error": "Error",
+    "kycRevoked": "KYC Revoked Successfully",
+    "failedToRevoke": "Failed to revoke KYC.",
+    "verifierAddress": "Verifier Address",
+    "approve": "Approve",
+    "revoke": "Revoke",
+    "givenAccessVerifiers": "Given Access Verifiers",
+    "slNo": "SL No",
+    "orgName": "Org Name",
+    "orgID": "Org ID",
+    "orgAddress": "Org Address",
+    "action": "Action"
+  },
+  "tranHistory": {
+    "transactionHistory": "Transaction History"
+  }
+}
