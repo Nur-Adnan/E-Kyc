@@ -1,3 +1,4 @@
+require("dotenv").config();
 const express = require("express");
 const mongoose = require("mongoose");
 const cors = require("cors");
@@ -38,7 +39,7 @@ const storage = multer.memoryStorage();
 const upload = multer({ storage: storage });
 
 const dbURI =
-  "mongodb+srv://adnan:3zKiSiUqlRZuPgKV@cluster2.k0i66ig.mongodb.net/UserDB?retryWrites=true&w=majority";
+  process.env.MONGODB_URI;
 mongoose
   .connect(dbURI, {
     useNewUrlParser: true,
