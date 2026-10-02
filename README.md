@@ -1,4 +1,40 @@
-# E-Kyc
+# E-KYC: decentralized identity verification
+
+A research prototype of a decentralized e-KYC system. A person's identity details are verified once and recorded against their wallet, and organizations can then be granted access to that verified record instead of collecting the same documents again.
+
+This is the code behind my work on blockchain-based identity and e-KYC.
+
+## How it is organised
+
+- **Users** register, connect a wallet and submit their identity (NID) details
+- **Verifiers** review submissions; an **admin** adds and removes verifiers
+- **Organizations** create a wallet and look up a customer's KYC record by wallet address or NID once access has been granted
+
+## Stack
+
+| Layer | Tools |
+|---|---|
+| Frontend | React, Tailwind CSS, Firebase, ethers.js |
+| Backend | Node.js, Express, MongoDB (Mongoose), JWT |
+| Chain | Smart contract calls through ethers.js (`backend/utils`) |
+
+## Running locally
+
+```bash
+# API
+cd backend
+npm install
+cp .env.example .env     # set MONGODB_URI
+npm run dev
+
+# Web client
+cd frontend
+npm install
+npm start
+```
+
+## Screenshots
+
 ![1](https://github.com/user-attachments/assets/67212e8c-1c5f-47a1-bc82-e78ab1613ba2)
 ![2](https://github.com/user-attachments/assets/ceddf954-cdf5-4049-ada1-8ec91ab79956)
 ![3](https://github.com/user-attachments/assets/2383306e-8999-4058-a645-ae2ecf4b8a26)
